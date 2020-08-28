@@ -20,7 +20,7 @@ section{
 @media (min-width: 992px){
 .col-lg-4{
 	float: left;
-	width: 29%;
+	width: 33.33%;
 }
 }
         /*medium devices*/
@@ -29,10 +29,10 @@ section{
 	float: left;
 }
 .col-md-6{
-	width: 44%;
+	width: 50%;
 }
 .col-md-12{
-	width: 93%;
+	width: 100%;
 }
 #Sushi{
 	width: 20%;
@@ -42,7 +42,7 @@ section{
 @media (max-width: 767px){
 	.col-sm-12{
 	float: left;
-	width: 90%;
+	width: 100%;
 }
 }
 
